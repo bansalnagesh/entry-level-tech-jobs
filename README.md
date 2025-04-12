@@ -40,6 +40,14 @@ A curated list of the best entry-level and fresher tech jobs, perfect for recent
 | Wavin Nederland - an Orbia business | Product Manager Building Benelux | 📍 Netherlands | Apr 10 | [Apply](https://starjobs.dev/jobs/97c666ec0adc4d1eacb26bff5c703480?utm=github) |
 | Updoc | Product Manager | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/14b19dac744a484a866cc9cf0e8e2763?utm=github) |
 | The Change Partners - Global talent specialists for a connected world | eCommerce Executive/Product Owner - DTC | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/dac709ee3eef4d4e98afcd0c34e8fc9d?utm=github) |
+| Logik.ai | Associate Product Manager | 📍 Bengaluru, Karnataka, India | Apr 10 | [Apply](https://starjobs.dev/jobs/e459ea87b213431885f89de5a31198c8?utm=github) |
+| Mastercard | Senior Specialist, Product Management-R-242996 | 📍 Purchase, NY | Apr 10 | [Apply](https://starjobs.dev/jobs/a2b2abe126034840b51cd06f6ae099a0?utm=github) |
+| DeepL | Senior Product Manager API | 📍 New York, United States | Apr 10 | [Apply](https://starjobs.dev/jobs/10092ffbe3644421ba60e3839a8ea0d7?utm=github) |
+| Commercial Bank of California | Information Security Analyst | 📍 United States | Apr 10 | [Apply](https://starjobs.dev/jobs/1f429f4dfd8247c1969f88f845ea8703?utm=github) |
+| Insight Global | Supply Chain Analyst | 🌐 Remote | Apr 10 | [Apply](https://starjobs.dev/jobs/4bccd1902ca2427fb279f7e4881087a9?utm=github) |
+| Carbyne | Sales Operations Analyst | 📍 Atlanta, GA | Apr 10 | [Apply](https://starjobs.dev/jobs/3c3eccc10c284c5dae8435c7f10b2254?utm=github) |
+| Darwin Hawkins | Financial Analyst | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/54875ab066404a44add80158a5bf0e82?utm=github) |
+| Jamesbeck | Investor Onboarding Analyst | 📍 London Area, United Kingdom | Apr 10 | [Apply](https://starjobs.dev/jobs/71d42eef374b47398695f9155eeda014?utm=github) |
 
 
 ## About This List
@@ -53,8 +61,8 @@ This list is automatically updated daily with fresh job opportunities.
 ## Other Awesome Job Lists
 
 * [Awesome Frontend Jobs](https://github.com/bansalnagesh/awesome-frontend-jobs)
-* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
-* [Awesome AI & Machine Learning Jobs](https://github.com/bansalnagesh/awesome-ai-ml-jobs)
-* [UX & Design Jobs](https://github.com/bansalnagesh/ux-design-jobs)
 * [Awesome DevOps Jobs](https://github.com/bansalnagesh/awesome-devops-jobs)
-* [High Paying Tech Jobs](https://github.com/bansalnagesh/high-paying-tech-jobs)
+* [Tech Jobs in India](https://github.com/bansalnagesh/tech-jobs-india)
+* [Blockchain & Crypto Jobs](https://github.com/bansalnagesh/blockchain-crypto-jobs)
+* [Tech Jobs in the USA](https://github.com/bansalnagesh/tech-jobs-usa)
+* [Awesome Full Stack Jobs](https://github.com/bansalnagesh/awesome-fullstack-jobs)
